@@ -19,4 +19,9 @@ I'm a student of Web Application Development building my own version about digit
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
+---
+
+### 📲 Social media
+
+<a href="https://www.linkedin.com/in/enya-garc%C3%ADa-l%C3%B3pez-de-felipe-090990243/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
