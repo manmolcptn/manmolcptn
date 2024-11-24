@@ -19,7 +19,7 @@ I'm a student of Web Application Development building my own version about digit
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
----
+#
 
 ### 📲 Social media
 
