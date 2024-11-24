@@ -23,5 +23,5 @@ I'm a student of Web Application Development building my own version about digit
 
 ### 📲 Social media
 
-<a href="https://www.linkedin.com/in/enya-garc%C3%ADa-l%C3%B3pez-de-felipe-090990243/">
+<a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-molina-capit%C3%A1n-66620523a/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
