@@ -27,5 +27,5 @@ I'm a student of Web Application Development building my own version about digit
 
 ### 📲 Social media
 
-<a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-molina-capit%C3%A1n-66620523a/">
+<a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-molina-capit%C3%A1n-66620523a/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
