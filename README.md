@@ -3,7 +3,7 @@
 
 **`Web Development student`**
 
-I'm a student of Web Application Development building my own version about digital world. I'm interested in all related with Data but for now, I'm focused in learn Frontend and Backend development.
+I'm a student of Web Application Development building my own version about digital world. I'm interested in learn Frontend and Backend development.
 
 ---
 
